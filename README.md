@@ -1,2 +1,2 @@
 # iswitch
-a code just for test
+code for iswitch
